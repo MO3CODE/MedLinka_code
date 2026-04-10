@@ -1,0 +1,1 @@
+"""MedLinka Backend Application"""
