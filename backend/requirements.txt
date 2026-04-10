@@ -1,5 +1,5 @@
 # ── Core Framework ──────────────────────────────────────────
-fastapi==0.111.0
+fastapi>=0.111.0
 uvicorn[standard]==0.30.1
 
 # ── Database ─────────────────────────────────────────────────
@@ -13,7 +13,7 @@ passlib[bcrypt]==1.7.4
 python-multipart==0.0.9
 
 # ── Validation ───────────────────────────────────────────────
-pydantic==2.7.1
+pydantic>=2.7.1
 pydantic-settings==2.3.0
 email-validator==2.1.1
 
